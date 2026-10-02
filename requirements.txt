@@ -1,9 +1,0 @@
-streamlit>=1.38,<2
-fastapi>=0.115
-pydantic>=2.9
-python-multipart>=0.0.9
-requests>=2.32
-pillow>=10.4
-qrcode>=7.4
-opencv-python-headless>=4.10
-pyzbar>=0.1.9
